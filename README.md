@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rulioff
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Unity.
+- 🌱 I’m currently learning C.
 - 💞️ I want to take over the world.
 - 📫 How to reach me 5106218039211206.
 
